@@ -1,0 +1,328 @@
+@prefix sadya: <http://example.org/onam-sadya#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+sadya:Ada_Pradhaman a skos:Concept ;
+    skos:broader sadya:Payasam_Desserts ;
+    skos:definition "Rice flakes cooked in jaggery and coconut milk."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Ada Pradhaman"@en .
+
+sadya:Aranmula_Erissery a skos:Concept ;
+    skos:broader sadya:Curries ;
+    skos:definition "A special roasted version of erissery unique to Vallasadya."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Aranmula Erissery"@en .
+
+sadya:Aravana_Payasam a skos:Concept ;
+    skos:broader sadya:Payasam_Desserts ;
+    skos:definition "Sweet pudding made with rice, jaggery, and ghee."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Aravana Payasam"@en .
+
+sadya:Aval a skos:Concept ;
+    skos:altLabel "Flattened Rice"@en ;
+    skos:broader sadya:Snacks ;
+    skos:definition "Flattened rice snack."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Aval"@en .
+
+sadya:Avial a skos:Concept ;
+    skos:broader sadya:Curries ;
+    skos:definition "A mix of vegetables cooked with coconut and yogurt."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Avial"@en .
+
+sadya:Banana_Chips a skos:Concept ;
+    skos:altLabel "Upperi"@en ;
+    skos:broader sadya:Snacks ;
+    skos:definition "Plain banana chips."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Banana Chips"@en .
+
+sadya:Buttermilk a skos:Concept ;
+    skos:altLabel "Sambharam"@en ;
+    skos:broader sadya:Staples ;
+    skos:definition "Spiced buttermilk served at the end of the meal."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Buttermilk"@en .
+
+sadya:Curry_Powder a skos:Concept ;
+    skos:altLabel "Chammanthi Podi"@en ;
+    skos:broader sadya:Snacks ;
+    skos:definition "Powdered roasted coconut chutney mix."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Curry Powder"@en .
+
+sadya:Ellunda a skos:Concept ;
+    skos:broader sadya:Snacks ;
+    skos:definition "Sesame seed sweet balls."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Ellunda"@en .
+
+sadya:Erissery a skos:Concept ;
+    skos:broader sadya:Curries ;
+    skos:definition "A thick curry made from pumpkin and roasted coconut."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Erissery"@en .
+
+sadya:Gothambu_Payasam a skos:Concept ;
+    skos:broader sadya:Payasam_Desserts ;
+    skos:definition "Wheat-based sweet pudding."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Gothambu Payasam"@en .
+
+sadya:Honey a skos:Concept ;
+    skos:altLabel "Then"@en ;
+    skos:broader sadya:Staples ;
+    skos:definition "Raw honey, sometimes requested by oarsmen."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Honey"@en .
+
+sadya:Inji_Puli a skos:Concept ;
+    skos:broader sadya:Pickles ;
+    skos:definition "A dark, tangy, and sweet ginger pickle."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Inji Puli"@en .
+
+sadya:Kaalan a skos:Concept ;
+    skos:broader sadya:Curries ;
+    skos:definition "A thick, sour curry made with yam, plantain, and yogurt, flavored with coconut and black pepper."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Kaalan"@en .
+
+sadya:Kaalipazham_Payasam a skos:Concept ;
+    skos:broader sadya:Payasam_Desserts ;
+    skos:definition "Banana pudding."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Kaalipazham Payasam"@en .
+
+sadya:Kaathali_Pazham a skos:Concept ;
+    skos:broader sadya:Staples ;
+    skos:definition "Small sweet bananas served with the sadya."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Kaathali Pazham"@en .
+
+sadya:Kadala_Pradhaman a skos:Concept ;
+    skos:broader sadya:Payasam_Desserts ;
+    skos:definition "Sweet pudding made with bengal gram."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Kadala Pradhaman"@en .
+
+sadya:Kadumanga_Achar a skos:Concept ;
+    skos:broader sadya:Pickles ;
+    skos:definition "Spicy raw mango pickle."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Kadumanga Achar"@en .
+
+sadya:Kalkandam a skos:Concept ;
+    skos:broader sadya:Snacks ;
+    skos:definition "Rock sugar candy."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Kalkandam"@en .
+
+sadya:Kichadi a skos:Concept ;
+    skos:broader sadya:Curries ;
+    skos:definition "A yogurt-based curry, usually with cucumber or okra."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Kichadi"@en .
+
+sadya:Koottukari a skos:Concept ;
+    skos:broader sadya:Curries ;
+    skos:definition "A medley of chickpeas, yam, and plantain in roasted coconut gravy."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Koottukari"@en .
+
+sadya:Madantha_Ila_Thoran a skos:Concept ;
+    skos:altLabel "Leafy Greens Thoran"@en ;
+    skos:broader sadya:Side_Dishes ;
+    skos:definition "Stir-fry made from the edible leaves of a tree."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Madantha Ila Thoran"@en .
+
+sadya:Malar a skos:Concept ;
+    skos:altLabel "Puffed Rice"@en ;
+    skos:broader sadya:Snacks ;
+    skos:definition "Puffed rice snack."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Malar"@en .
+
+sadya:Mampazha_Pulissery a skos:Concept ;
+    skos:broader sadya:Curries ;
+    skos:definition "Pulissery variant made with ripe mango."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Mampazha Pulissery"@en .
+
+sadya:Mezhukkupuratti a skos:Concept ;
+    skos:broader sadya:Side_Dishes ;
+    skos:definition "A dry stir-fry, often of yam, potatoes, or beans."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Mezhukkupuratti"@en .
+
+sadya:Naranga_Achar a skos:Concept ;
+    skos:broader sadya:Pickles ;
+    skos:definition "Lemon pickle."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Naranga Achar"@en .
+
+sadya:Naruvenna a skos:Concept ;
+    skos:altLabel "Butter"@en ;
+    skos:broader sadya:Staples ;
+    skos:definition "Clarified butter served with rice."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Naruvenna"@en .
+
+sadya:Nellikka_Achar a skos:Concept ;
+    skos:broader sadya:Pickles ;
+    skos:definition "Gooseberry pickle."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Nellikka Achar"@en .
+
+sadya:Olan a skos:Concept ;
+    skos:broader sadya:Curries ;
+    skos:definition "A mild curry with ash gourd, cowpeas, and coconut milk."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Olan"@en .
+
+sadya:Paal_Payasam a skos:Concept ;
+    skos:broader sadya:Payasam_Desserts ;
+    skos:definition "Simple rice pudding with milk."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Paal Payasam"@en .
+
+sadya:Paalada_Pradhaman a skos:Concept ;
+    skos:broader sadya:Payasam_Desserts ;
+    skos:definition "Rice flake pudding made with milk."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Paalada Pradhaman"@en .
+
+sadya:Pachadi a skos:Concept ;
+    skos:broader sadya:Curries ;
+    skos:definition "A yogurt-based curry, often with fruits or beetroot."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Pachadi"@en .
+
+sadya:Pappadam a skos:Concept ;
+    skos:broader sadya:Staples ;
+    skos:definition "Crispy fried wafer made from black gram flour."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Pappadam"@en .
+
+sadya:Parippu a skos:Concept ;
+    skos:broader sadya:Curries ;
+    skos:definition "A thick, mildly spiced lentil curry, traditionally served with ghee."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Parippu"@en .
+
+sadya:Pulissery a skos:Concept ;
+    skos:broader sadya:Curries ;
+    skos:definition "A sour curry made with buttermilk and vegetables."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Pulissery"@en .
+
+sadya:Raisins_and_Grapes a skos:Concept ;
+    skos:broader sadya:Snacks ;
+    skos:definition "Served alongside desserts."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Raisins and Grapes"@en .
+
+sadya:Rasam a skos:Concept ;
+    skos:broader sadya:Curries ;
+    skos:definition "A thin, peppery, and tangy soup for digestion."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Rasam"@en .
+
+sadya:Rice a skos:Concept ;
+    skos:altLabel "Choru"@en ;
+    skos:broader sadya:Staples ;
+    skos:definition "Steamed red matta rice, the base of the sadya."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Rice"@en .
+
+sadya:Sambar a skos:Concept ;
+    skos:broader sadya:Curries ;
+    skos:definition "A mixed vegetable and lentil stew with tamarind and spices."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Sambar"@en .
+
+sadya:Sharkara_Varatti a skos:Concept ;
+    skos:broader sadya:Snacks ;
+    skos:definition "Deep-fried jaggery-coated banana chips."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Sharkara Varatti"@en .
+
+sadya:Sugarcane a skos:Concept ;
+    skos:broader sadya:Snacks ;
+    skos:definition "Small cut pieces of sugarcane."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Sugarcane"@en .
+
+sadya:Thakara_Thoran a skos:Concept ;
+    skos:broader sadya:Side_Dishes ;
+    skos:definition "Stir-fry made from cassia tora leaves."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Thakara Thoran"@en .
+
+sadya:Thick_Curd a skos:Concept ;
+    skos:broader sadya:Staples ;
+    skos:definition "Traditional curd served in areca nut leaf bowls."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Thick Curd"@en .
+
+sadya:Thoran a skos:Concept ;
+    skos:broader sadya:Side_Dishes ;
+    skos:definition "Dry stir-fried vegetables with grated coconut."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Thoran"@en .
+
+sadya:Unniappam a skos:Concept ;
+    skos:broader sadya:Snacks ;
+    skos:definition "Small fried sweet dumplings."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Unniappam"@en .
+
+sadya:Vada a skos:Concept ;
+    skos:broader sadya:Snacks ;
+    skos:definition "A savory fried snack made from lentils."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Vada"@en .
+
+sadya:Pickles a skos:Concept ;
+    skos:definition "Tangy, spicy, or sweet pickles enhancing the flavor of the Sadya."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Pickles"@en ;
+    skos:topConceptOf sadya:OnamSadya .
+
+sadya:Side_Dishes a skos:Concept ;
+    skos:definition "Accompaniments and stir-fried dishes served alongside the main curries."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Side Dishes"@en ;
+    skos:topConceptOf sadya:OnamSadya .
+
+sadya:Payasam_Desserts a skos:Concept ;
+    skos:definition "Sweet puddings, an essential highlight of the feast."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Payasam (Desserts)"@en ;
+    skos:topConceptOf sadya:OnamSadya .
+
+sadya:Staples a skos:Concept ;
+    skos:definition "Foundation items served as the base or essential accompaniments."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Staples"@en ;
+    skos:topConceptOf sadya:OnamSadya .
+
+sadya:Snacks a skos:Concept ;
+    skos:definition "Crunchy or savory items served before or during the meal."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Snacks"@en ;
+    skos:topConceptOf sadya:OnamSadya .
+
+sadya:Curries a skos:Concept ;
+    skos:definition "Various traditional curries that form the heart of the Onam Sadya."@en ;
+    skos:inScheme sadya:OnamSadya ;
+    skos:prefLabel "Curries"@en ;
+    skos:topConceptOf sadya:OnamSadya .
+
+sadya:OnamSadya a skos:ConceptScheme ;
+    skos:definition "A SKOS representation of the traditional Kerala Onam Sadya feast, organized into categories."@en ;
+    skos:prefLabel "Onam Sadya Ontology"@en .
+
