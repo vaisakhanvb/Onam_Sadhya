@@ -10,7 +10,7 @@ How to View
 You can load the TTL file in:
 - [Protégé](https://protege.stanford.edu/) – Tree/graph visualization
 - [SKOS Play](https://skos-play.sparna.fr/play/) – Hierarchy viewer
-- [WebVOWL](http://www.visualdataweb.de/webvowl/) – Knowledge graph visualization
+- [WebVOWL](https://service.tib.eu/webvowl/)) – Knowledge graph visualization
 
 
 Author
